@@ -1,0 +1,15 @@
+/home/minim/Документы/C#/hw2/13/obj/Debug/net6.0/13.csproj.AssemblyReference.cache
+/home/minim/Документы/C#/hw2/13/obj/Debug/net6.0/13.GeneratedMSBuildEditorConfig.editorconfig
+/home/minim/Документы/C#/hw2/13/obj/Debug/net6.0/13.AssemblyInfoInputs.cache
+/home/minim/Документы/C#/hw2/13/obj/Debug/net6.0/13.AssemblyInfo.cs
+/home/minim/Документы/C#/hw2/13/obj/Debug/net6.0/13.csproj.CoreCompileInputs.cache
+/home/minim/Документы/C#/hw2/13/bin/Debug/net6.0/13
+/home/minim/Документы/C#/hw2/13/bin/Debug/net6.0/13.deps.json
+/home/minim/Документы/C#/hw2/13/bin/Debug/net6.0/13.runtimeconfig.json
+/home/minim/Документы/C#/hw2/13/bin/Debug/net6.0/13.dll
+/home/minim/Документы/C#/hw2/13/bin/Debug/net6.0/13.pdb
+/home/minim/Документы/C#/hw2/13/obj/Debug/net6.0/13.dll
+/home/minim/Документы/C#/hw2/13/obj/Debug/net6.0/refint/13.dll
+/home/minim/Документы/C#/hw2/13/obj/Debug/net6.0/13.pdb
+/home/minim/Документы/C#/hw2/13/obj/Debug/net6.0/13.genruntimeconfig.cache
+/home/minim/Документы/C#/hw2/13/obj/Debug/net6.0/ref/13.dll
